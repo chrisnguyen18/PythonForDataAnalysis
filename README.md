@@ -1,5 +1,5 @@
 # PythonForDataAnalysis
-This is my repo for python work
+This is my repo for my Amazon sales data project
 
 ### Project 1: Analyzing Amazon sales data
 
